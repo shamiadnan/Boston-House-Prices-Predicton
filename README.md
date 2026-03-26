@@ -42,9 +42,20 @@ It includes data cleaning, exploratory data analysis (EDA), feature scaling, mod
 
    ✅ **Best model: Gradient Boosting (MSE: 8.32, R²: 0.88)**
 
-5. **Visualizations**  
-   - Predicted vs Actual (Random Forest).  
-   - Feature Importance (Random Forest).
+## 📊 Visualizations
+
+### Correlation Heatmap
+![Correlation Heatmap](Boston-House-Prices-Predicton/correlation_heatmap.png)
+
+### LSTAT vs MEDV and RM vs MEDV
+![LSTAT vs MEDV and RM vs MEDV](Boston-House-Prices-Predicton/lstm-rm_vs_medv.png)
+
+### Predicted vs Actual (Random Forest)
+![Predicted vs Actual](Boston-House-Prices-Predicton/predicted_vs_Actual.png)
+
+### Feature Importance (Random Forest)
+![Feature Importance](Boston-House-Prices-Predicton/Feature.png)
+
      
 ## 📈 Results
    - Gradient Boosting achieved the best performance.
