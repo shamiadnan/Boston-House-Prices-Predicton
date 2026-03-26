@@ -47,8 +47,11 @@ It includes data cleaning, exploratory data analysis (EDA), feature scaling, mod
 ### Correlation Heatmap
 ![Correlation Heatmap](correlation_heatmap.png)
 
-### LSTAT vs MEDV and RM vs MEDV
-![LSTAT vs MEDV and RM vs MEDV](lstat-rm_vs_medv.png)
+### LSTAT vs MEDV
+![LSTAT vs MEDV](lstat_vs_medv.png)
+
+### RM vs MEDV
+![RM vs MEDV](RM_vs_MEDV.png)
 
 ### Predicted vs Actual (Random Forest)
 ![Predicted vs Actual](predicted_vs_actual.png)
@@ -69,7 +72,6 @@ It includes data cleaning, exploratory data analysis (EDA), feature scaling, mod
 ## 📂 Repository Structure
 
 ShadowFox--Projects/
-└── shadowfax/
     ├── BostonHousePricePrediction.ipynb   # Main notebook
     ├── README.md                          # Documentation
     ├── correlation_heatmap.png            # Visualization
