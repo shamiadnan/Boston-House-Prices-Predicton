@@ -48,10 +48,10 @@ It includes data cleaning, exploratory data analysis (EDA), feature scaling, mod
 ![Correlation Heatmap](correlation_heatmap.png)
 
 ### LSTAT vs MEDV and RM vs MEDV
-![LSTAT vs MEDV and RM vs MEDV](lstm-rm_vs_medv.png)
+![LSTAT vs MEDV and RM vs MEDV](lstat-rm_vs_medv.png)
 
 ### Predicted vs Actual (Random Forest)
-![Predicted vs Actual](predicted_vs_Actual.png)
+![Predicted vs Actual](predicted_vs_actual.png)
 
 ### Feature Importance (Random Forest)
 ![Feature Importance](Feature.png)
