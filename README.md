@@ -69,14 +69,6 @@ It includes data cleaning, exploratory data analysis (EDA), feature scaling, mod
    - Python 3.x
    - Libraries: pandas, numpy, matplotlib, seaborn, scikit-learn, xgboost
      
-## 📂 Repository Structure
-
-ShadowFox--Projects/
-    ├── BostonHousePricePrediction.ipynb   # Main notebook
-    ├── README.md                          # Documentation
-    ├── correlation_heatmap.png            # Visualization
-    ├── lstat_vs_medv.png                  # Visualization
-    ├── rm_vs_medv.png                     # Visualization
-    ├── predicted_vs_actual.png            # Visualization
-    └── feature_importance.png             # Visualization
+## Author
+   - Adnan Shami
 
