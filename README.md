@@ -45,16 +45,16 @@ It includes data cleaning, exploratory data analysis (EDA), feature scaling, mod
 ## 📊 Visualizations
 
 ### Correlation Heatmap
-![Correlation Heatmap](Boston-House-Prices-Predicton/correlation_heatmap.png)
+![Correlation Heatmap](correlation_heatmap.png)
 
 ### LSTAT vs MEDV and RM vs MEDV
-![LSTAT vs MEDV and RM vs MEDV](Boston-House-Prices-Predicton/lstm-rm_vs_medv.png)
+![LSTAT vs MEDV and RM vs MEDV](lstm-rm_vs_medv.png)
 
 ### Predicted vs Actual (Random Forest)
-![Predicted vs Actual](Boston-House-Prices-Predicton/predicted_vs_Actual.png)
+![Predicted vs Actual](predicted_vs_Actual.png)
 
 ### Feature Importance (Random Forest)
-![Feature Importance](Boston-House-Prices-Predicton/Feature.png)
+![Feature Importance](Feature.png)
 
      
 ## 📈 Results
